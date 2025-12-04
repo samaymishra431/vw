@@ -16,12 +16,12 @@ const Footer = () => {
   ];
 
   const galleryImages = [
-    "/placeholder.svg",
-    "/placeholder.svg",
-    "/placeholder.svg",
-    "/placeholder.svg",
-    "/placeholder.svg",
-    "/placeholder.svg",
+    "./placeholder.svg",
+    "./placeholder.svg",
+    "./placeholder.svg",
+    "./placeholder.svg",
+    "./placeholder.svg",
+    "./placeholder.svg",
   ];
 
   return (
